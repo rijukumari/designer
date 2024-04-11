@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn{
+   
+    margin-left: 50%;
+}
+table{
+    margin-top: -20%;
+    
+}
+h1{
+    font-family: "Cedarville Cursive", cursive;
+}
+
+
+
+
+
